@@ -1,0 +1,53 @@
+/* (Q 2) */
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.div-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div-1 img{
+    margin-top: 20px;
+}
+.div-1 p {
+    font-size: 2rem;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 1rem;
+    margin-top: 20px;
+}
+.div-1 div{
+margin-left: 50px;
+} */
+
+/* (Q 2 End) */
+
+/* Q 3  start/*
+
+/* table{
+    border: 1px solid black;
+    margin-left: 20px;
+    border-collapse: collapse;
+}
+table th{
+    border: 1px solid black;
+    width: 100px;
+}
+table td{
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+    
+}
+button{
+ border: none;
+ width: 100px;
+ cursor: pointer;
+ font-weight: 500;
+ 
+}
+button:active{
+    opacity: 0.5;
+} */
